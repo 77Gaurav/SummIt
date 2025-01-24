@@ -1,0 +1,12 @@
+1. Meet API to transcription                  // green    {the color is the level of value thats gets added to the product}
+2. Store the transcript to database           // green
+3. Meeting Summarizer                        // green
+4. Generate Insights                        // red
+  a. Suggestions   
+  b. Data vizualization
+5. Generate a Todo list based on the meeting                //yellow
+6. Realtime Insights generation                              // yellow
+7. Insights to Notion , google calender and google teams    //yellow
+
+// Once we have figured out everything on this , building a website frontend backend is no-big deal.
+// Work step by step , figure out how each step is done , what tools we need to build it then do it.
